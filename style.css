@@ -4,6 +4,8 @@ html {
     font-size: 62.5%;
 }
 
+@media (min-width:375px)
+
 body {
     overflow-x: hidden;
     min-height: 95vh;
